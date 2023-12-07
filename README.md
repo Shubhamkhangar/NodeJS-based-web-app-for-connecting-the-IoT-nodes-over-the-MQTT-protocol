@@ -9,7 +9,6 @@
 * The communication flow ensures a continuous exchange of information, enabling users to remotely control the actuator and monitor environmental conditions in real time. The system's modular design allows for scalability and potential integration with additional IoT devices.
 * This project serves as a practical demonstration of IoT concepts, showcasing the seamless integration of hardware (NodeMCU) and software (Node.js and HTML) components to create an accessible and responsive IoT application.
 
-**#Hosting the Node.js app on the render web hosting services**
 
 
 
