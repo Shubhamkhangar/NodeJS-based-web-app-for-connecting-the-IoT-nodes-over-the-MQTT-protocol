@@ -69,8 +69,8 @@ var options = {
     host: process.env.MQTT_HOST || 'f27f91e6d8b24d02a7157ea968dd6c9d.s2.eu.hivemq.cloud',
     port: process.env.MQTT_PORT || 8883,
     protocol: process.env.MQTT_PROTOCOL || 'mqtts',
-    username: process.env.MQTT_USERNAME || 'project',
-    password: process.env.MQTT_PASSWORD ||  'Project@1'
+    username: process.env.MQTT_USERNAME || 'pr***',
+    password: process.env.MQTT_PASSWORD ||  'Pr****'
 }
 
 var client = mqtt.connect(options); // mqtt function to connect with the broker
