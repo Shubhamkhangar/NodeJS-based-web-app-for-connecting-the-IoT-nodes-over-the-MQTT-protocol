@@ -32,8 +32,8 @@ const char* password = "876543210";
 
 /******* MQTT Broker Connection Details *******/
 const char* mqtt_server   = "f27f91e6d8b24d02a7157ea968dd6c9d.s2.eu.hivemq.cloud";
-const char* mqtt_username = "project";
-const char* mqtt_password = "Project@1";
+const char* mqtt_username = "proj***";
+const char* mqtt_password = "Proje***";
 const int mqtt_port       = 8883;
 
 /**** Secure WiFi Connectivity Initialisation *****/
