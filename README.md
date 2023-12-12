@@ -9,6 +9,13 @@
 * The communication flow ensures a continuous exchange of information, enabling users to remotely control the actuator and monitor environmental conditions in real time. The system's modular design allows for scalability and potential integration with additional IoT devices.
 * This project serves as a practical demonstration of IoT concepts, showcasing the seamless integration of hardware (NodeMCU) and software (Node.js and HTML) components to create an accessible and responsive IoT application.
 
+#Click on below link's to jump to specific folders where the code are stored.
+
+[code of NodeMCU](ESP8266_mqtt_hivemq.ino)
+
+[code of nodeJS](repo.js)
+
+[code of pug template](demo.pug)
 
 
 
