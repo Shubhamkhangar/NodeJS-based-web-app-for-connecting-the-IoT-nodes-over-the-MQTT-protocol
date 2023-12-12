@@ -11,7 +11,7 @@
 
 #Click on below link's to jump to specific folders where the code are stored.
 
-[code of NodeMCU](ESP8266_mqtt_hivemq.ino)
+[code of NodeMCU](Esp8266_mqtt_hivemq.ino)
 
 [code of nodeJS](repo.js)
 
