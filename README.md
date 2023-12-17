@@ -12,9 +12,10 @@
 
 **Development:** HTML, CSS
 
-**Framework:** NodeJS, ExpressJs
+**Framework:** NodeJS, ExpressJS
 
 **Website publicaly hosted on:** Render 
+**MQTT Broker:** HiveMQ 
 
 
 #Click on below link's to jump to specific folders where the code are stored.
