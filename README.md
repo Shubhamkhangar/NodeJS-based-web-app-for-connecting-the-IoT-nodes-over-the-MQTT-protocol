@@ -8,14 +8,6 @@
 * The web interface, crafted using HTML and the Pug template engine, provides users with an intuitive dashboard. Actuator unit states and sensor data are dynamically displayed, and users can interact with the system by pressing virtual buttons on the webpage. The webpage refreshes periodically to reflect the most recent data.
 * The communication flow ensures a continuous exchange of information, enabling users to remotely control the actuator and monitor environmental conditions in real time.
 
-#Click on below link's to jump to specific folders where the code are stored.
-
-[code of NodeMCU](Esp8266_mqtt_hivemq.ino)
-
-[code of nodeJS](repo.js)
-
-[code of pug template](demo.pug)
-
 **Programing Language:** C, JavaScript
 
 **Development:** HTML, CSS
@@ -24,6 +16,14 @@
 
 **Website publicaly hosted on:** Render 
 
+
+#Click on below link's to jump to specific folders where the code are stored.
+
+[code of NodeMCU](Esp8266_mqtt_hivemq.ino)
+
+[code of nodeJS](repo.js)
+
+[code of pug template](demo.pug)
 
 
 
