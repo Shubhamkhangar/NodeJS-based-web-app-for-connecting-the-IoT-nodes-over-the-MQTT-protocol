@@ -16,9 +16,12 @@
 
 [code of pug template](demo.pug)
 
-**Programing Language:** C, JavaScript.
+**Programing Language:** C, JavaScript
+
 **Development:** HTML, CSS
-**Framework:** NodeJS, ExpressJs.
+
+**Framework:** NodeJS, ExpressJs
+
 **Website publicaly hosted on:** Render 
 
 
